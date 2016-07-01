@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/FontKit.svg?style=flat)](http://cocoadocs.org/docsets/FontKit)
 [![License](https://img.shields.io/cocoapods/l/FontKit.svg)](https://raw.githubusercontent.com/thii/FontKit/master/LICENSE)
 
-Currently FontAwesomeKit supports **6** different icon fonts.
+Currently FontKit supports:
 - [Weather icons 2.0.10](https://erikflowers.github.io/weather-icons/) Contains **222** Weather Themed Icons 
 
 ## License
