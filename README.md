@@ -8,6 +8,27 @@
 Currently FontKit supports:
 - [Weather icons 2.0.10](https://erikflowers.github.io/weather-icons/) Contains **222** Weather Themed Icons 
 
+## Installation
+
+### CocoaPods
+
+To integrate FontKit into your Xcode project using CocoaPods, specify it in your `Podfile`:
+
+```ruby
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+use_frameworks!
+
+pod 'FontKit'
+```
+
+Then, run the following command:
+
+```bash
+$ pod install
+```
+
+And add `import FontKit` to the top of the files using FontAwesome.
 
 ## TODO
 - [FontAwesome](http://fontawesome.io)
